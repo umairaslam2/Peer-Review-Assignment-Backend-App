@@ -39,21 +39,12 @@ Task	File	Description
 🚀 How to Run
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Start the backend server
 
-bash
-Copy
-Edit
 npm start
 Run client scripts
 
-bash
-Copy
-Edit
 node axios-client/task10_getAllBooks.js
  Screenshots
 Screenshots for each task (1–13) have been included as .png files in the ZIP folder as per lab requirements.
